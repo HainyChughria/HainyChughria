@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://animesher.com/orig/1/180/1809/18096/animesher.com_pixel-art-pc-girl-1809684.gif)
+<p align="center">
+  <img src="https://animesher.com/orig/1/180/1809/18096/animesher.com_pixel-art-pc-girl-1809684.gif" alt="GitHub Banner" width="100%" />
+</p>
 
 <!-- Replace the line above with your actual GIF URL, e.g.: -->
 <!-- ![header](https://i.redd.it/your-gif-id.gif) -->
