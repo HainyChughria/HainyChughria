@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://animesher.com/orig/1/180/1809/18096/animesher.com_pixel-art-pc-girl-1809684.gif" alt="GitHub Banner" width="100%" />
+  <img src="https://i.redd.it/0k6meqvps4h91.gif" alt="GitHub Banner" width="100%" />
 </p>
 
 <!-- Replace the line above with your actual GIF URL, e.g.: -->
